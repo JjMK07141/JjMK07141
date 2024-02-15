@@ -4,7 +4,9 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 😊 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 
+    <br>
        • 저는 앞으로 꾸준히 성장할 디자인 개발자입니다! </li>
+    <br>
     </div> 
     </div>
     <div align= "center">
