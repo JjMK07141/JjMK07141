@@ -20,10 +20,10 @@
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     <div>
-    <br>
-      <li>
-        아래는 제가 보유한 디자인 기술 입니다
+      <br>
+      아래는 제가 보유한 디자인 기술입니다
       </li>
+      <br>
       <br>
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge">
       <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge">
