@@ -7,7 +7,7 @@
     <br>
        • 저는 앞으로 꾸준히 성장할 디자인 개발자입니다! </li>
     <br>
-    </div> 
+    <br>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 아래의 목록은 제가 보유한 기술 및 스택들입니다! </h2> <br> 
