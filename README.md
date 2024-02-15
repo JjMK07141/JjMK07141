@@ -38,7 +38,10 @@
       <a href=>
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
     </div>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JjMK07141&theme=tokyonight-duo&hide_border=true&border_radius=4.6&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
+      <br>
+      <br>
+    <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JjMK07141&theme=tokyonight-duo&hide_border=true&border_radius=4.6&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
     <br> 
     <div align= "center">  </div> 
     </div>
